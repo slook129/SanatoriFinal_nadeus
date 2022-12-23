@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\egrgh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
+      "projectUniqueName": "C:\\MyProjects\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
       "projectName": "sanatoriy",
-      "projectPath": "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\obj\\",
+      "projectPath": "C:\\MyProjects\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
+      "packagesPath": "C:\\Users\\egrgh\\.nuget\\packages\\",
+      "outputPath": "C:\\MyProjects\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\egrgh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

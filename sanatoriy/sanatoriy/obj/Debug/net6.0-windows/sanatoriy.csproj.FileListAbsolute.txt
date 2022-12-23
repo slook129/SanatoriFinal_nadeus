@@ -1,0 +1,17 @@
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\bin\Debug\net6.0-windows\sanatoriy.exe
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\bin\Debug\net6.0-windows\sanatoriy.deps.json
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\bin\Debug\net6.0-windows\sanatoriy.runtimeconfig.json
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\bin\Debug\net6.0-windows\sanatoriy.dll
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\bin\Debug\net6.0-windows\sanatoriy.pdb
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.csproj.AssemblyReference.cache
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.Form1.resources
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.csproj.GenerateResource.cache
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.AssemblyInfoInputs.cache
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.AssemblyInfo.cs
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.csproj.CoreCompileInputs.cache
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.dll
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\refint\sanatoriy.dll
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.pdb
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\sanatoriy.genruntimeconfig.cache
+C:\MyProjects\SanatoriFinal_nadeus\sanatoriy\sanatoriy\obj\Debug\net6.0-windows\ref\sanatoriy.dll
