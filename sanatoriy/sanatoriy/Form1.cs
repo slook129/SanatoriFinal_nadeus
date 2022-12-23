@@ -1,10 +1,22 @@
 namespace sanatoriy
 {
-    public partial class Form1 : Form
+    public partial class LoginForm : Form
     {
-        public Form1()
+        string userLogin;
+        string userpassword;
+        public LoginForm()
         {
             InitializeComponent();
+        }
+
+        private void closeButton_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void login_TextChanged(object sender, EventArgs e)
+        {
+            userLogin = login.Text;
         }
     }
 }

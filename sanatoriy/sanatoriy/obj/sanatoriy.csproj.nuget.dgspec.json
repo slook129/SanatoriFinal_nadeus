@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\sanatoriy.csproj": {}
+    "C:\\Sanatoriy\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\sanatoriy.csproj": {}
   },
   "projects": {
-    "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\sanatoriy.csproj": {
+    "C:\\Sanatoriy\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\sanatoriy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
+        "projectUniqueName": "C:\\Sanatoriy\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
         "projectName": "sanatoriy",
-        "projectPath": "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
+        "projectPath": "C:\\Sanatoriy\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\sanatoriy.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Sanatoriy\\sanatoriy\\sanatoriy\\obj\\",
+        "outputPath": "C:\\Sanatoriy\\SanatoriFinal_nadeus\\sanatoriy\\sanatoriy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
